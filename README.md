@@ -123,8 +123,6 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soundsmell&layout=compact&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soundsmell&theme=radical&hide_border=true)
-  
 </div>
 
 ## 🚀 Current Focus
